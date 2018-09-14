@@ -1,0 +1,4 @@
+REDNO-fILL3
+     1    540    560    -842150451    -842150451     BLACK
+RECTANGLE    2    862      431     862      431    RED    NO-fILL
+RECTANGLE    3    520      269     726      413    RED    NO-fILL

@@ -1,0 +1,6 @@
+RED   RED   5
+    1    166    243    242     244    204     316    NO-fILL    NO-fILL
+    2    462     272    68    WHITE    NO-fILL
+LINE     3    699    270    842    354     
+    4    149      489     232      485    NO-fILL    NO-fILL
+    5    457      406     613      529    RED    RED

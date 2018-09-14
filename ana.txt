@@ -1,0 +1,5 @@
+BLACK   NO-fILL   4
+TRIANGLE    1    222    294    385     301    297     375    WHITE    GREEN
+CIRCLE 2 844 225 74 GREEN    RED
+RECTANGLE    3    568      327     666      373    BLUE    NO-fILL
+LINE     4    360    138    499    191     WHITE

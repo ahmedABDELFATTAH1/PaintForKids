@@ -1,0 +1,5 @@
+RED   NO-fILL   4
+RECTANGLE    1    339      197     445      253    RED    BLUE
+CIRCLE 2 127 328 130 BLUE    GREEN
+LINE     3    683    344    872    374     BLACK
+TRIANGLE    4    417    483    525     445    478     395    RED    NO-fILL

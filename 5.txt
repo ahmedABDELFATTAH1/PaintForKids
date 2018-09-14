@@ -1,0 +1,4 @@
+REDNO-fILL3
+RECTANGLE    1    273      194     435      291    RED    GREEN
+RECTANGLE    2    725      216     1007      357    RED    BLACK
+LINE     3    211    309    420    444     RED

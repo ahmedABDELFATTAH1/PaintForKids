@@ -1,0 +1,2 @@
+RED   NO-fILL   2
+TRIANGLE    1    127    294    239     284    165     380    RED    GREEN
